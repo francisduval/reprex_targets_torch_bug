@@ -1,0 +1,16 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|d1d619bbd3681eb7|||||||||||||||
+asdf|stem|800dbbb9daa76674|968b52400e8a818f|21d318661a95126e|1485398060||t19430.6407525724s|818e14533e0f3954|33313|rds|local|vector|||0.001||
+file|stem|ee60f822bca7b4a0|89f2dc7f4c6a74b8|fdcdf23f9eace6e0|-1301001980||t19430.6286321454s|b6d2e014b07bc296|51|rds|local|vector|||0.001||
+fitted_luz|stem|a454b689dd3de2f9|339383aac8b09fdf|80137ee8e9e38503|1328224533||t19430.6693634658s||104917|rds|local|vector|||||_store_ no applicable method for torch_save applied to an object of class luz_module_fitted
+fitted_luz_1|stem|a7c106849ce7076c|339383aac8b09fdf|80137ee8e9e38503|416605298||t19430.6706026293s|b3bd8f2db7959c9c|104922|rds|local|vector|||0.544||
+fitted_luz_2|stem||339383aac8b09fdf|80137ee8e9e38503|-341931514||t19430.6711352567s||0|torch|local|vector|||||_store_ no applicable method for torch_save applied to an object of class luz_module_fitted
+MyDataset|function|569b7d3c89f035f8|||||||||||||||
+NeuralNet|function|28eb1280fd39ec9c|||||||||||||||
+torch_target|stem||2e62605a8fde959f|88c26bc9852ababc|-1306873272||t19430.6368294375s||0|torch|local|vector|||||_store_ no applicable method for torch_save applied to an object of class cMyDataset, dataset, R6
+torch_target_1|stem|9f451d12dd394dce|2e62605a8fde959f|d3d0ff888295fac0|-461743032||t19430.6693642041s|df26ea1be590367f|33361|rds|local|vector|||0.006||
+torch_target_2|stem||2e62605a8fde959f|d3d0ff888295fac0|316422411||t19430.6395633783s||0|torch|local|vector|||||_store_ no applicable method for torch_save applied to an object of class cMyDataset, dataset, R6
+torch_target_3|stem||2e62605a8fde959f|88c26bc9852ababc|-1342245974||t19430.6415155543s||0|torch|local|vector|||||_store_ no applicable method for torch_save applied to an object of class cMyDataset, dataset, R6
+torch_target_4|stem|4a7a7a49fe50627c|a100d5d1efaa8b48|728a8c7124068311|-1582016747||t19430.6475907921s|700ad63400e848d6|18860|rds|local|vector|||0.078||
+torch_target_5|stem|c24d5e4259bf9610|a100d5d1efaa8b48|728a8c7124068311|-862343965||t19430.6483933984s|e3e669f2a3ca9e93|21236|torch|local|vector|||0.073||
+torch_target_6|stem|fb9c7d5acf883b66|a100d5d1efaa8b48|728a8c7124068311|-1229946607||t19430.648897061s|a42d8f79aba68ae9|21241|torch|local|vector|||0.076||
